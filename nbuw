@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Code to load include file.
+ORIG_ARG_0="$0"
+NBDIR=${0%/*}
+. ${NBDIR}/nbc.sh
+

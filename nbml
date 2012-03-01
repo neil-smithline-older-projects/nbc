@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# We extract two pieces of information from $0:
+#   1) We assume that nbc.sh lives lives in the same directory as this script.
+#   2) nbc.sh uses $0 to get the name of the command that was run.
+#
+# Instead of using $0 directly, we use $ORIG_ARG_0. We set $ORIG_ARG_0
+# to $0 only if $ORIG_ARG_0 is not already set. This enables spoofing
+# of $0 for debugging and such.
+ORIG_ARG_0=${ORIG_ARG_0:-$0}
+
+# Now grab the directory where we'll find nbc.sh
+NBDIR=${ORIG_ARG_0%/*}
+
+# And call nbc.sh to do the real work.
+. ${NBDIR}/nbc.sh
+
