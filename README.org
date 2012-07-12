@@ -8,17 +8,18 @@ I use [[http://nanoblogger.sourceforge.net/][NanoBlogger]], called NB by its fan
 
 I'm not sure whether the difficulties I have with the NB command-line are due to the way my brain is wired, NB being limited by [[http://en.wikipedia.org/wiki/Backwards_compatibility][backwards compatibility]], or something else. The only thing I know is that I find it painful to use in its current form.
 
-Unburdened from backwards compatibility, I have been writing a front-end to NB that is more intuitive; that is, more intuitive to me. The CLI actually follows a formal grammar that is defined in the rather verbose comment near the end of [[file:nbc.sh][nbc.sh]].
+Unburdened from backwards compatibility, I have been writing a front-end to NB that is more intuitive; that is, more intuitive to me. The CLI actually follows a formal grammar that is defined in the rather verbose comment in [[file:nbc.sh][nbc.sh]] labeled "COMMAND NAME TRANSLATION GUIDE".
 
 *** What's Missing
 I have not completely rewritten the NB user interface. I have just done the parts I use. For example, I don't use or support NB's:
+    - Real documentation (ie: not in the code).
     - Drafts
     - Importing entries
     - Changing entries' dates
     - Queries (a very powerful feature but doesn't fit my use model)
     - Articles
     - Meta-files
-
+      
 *** Credits
 While I like my CLI very much, it only exists because of the cool work done on [[http://nanoblogger.sourceforge.net/][NanoBlogger]]. As NB is doing most of the work, credit should go there.
 

@@ -1,5 +1,7 @@
 #!/bin/sh
 
+USAGE=""       # Don't move this line
+
 # Copyright 2012, Neil Smithline.
 
 # NBC by Neil Smithline is licensed under a Creative Commons
@@ -216,7 +218,7 @@ process_entries_with_tags () {
 }
 
 # ################################################################
-# Command NAME TRANSLATION GUIDE
+# COMMAND NAME TRANSLATION GUIDE
 # ################################################################
 # 
 # The function of a command is encoded in the command's name. In order
