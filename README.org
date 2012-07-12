@@ -24,25 +24,17 @@ I have not completely rewritten the NB user interface. I have just done the part
 While I like my CLI very much, it only exists because of the cool work done on [[http://nanoblogger.sourceforge.net/][NanoBlogger]]. As NB is doing most of the work, credit should go there.
 
 -----
-#+BEGIN_HTML
-<center>
-<img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" rel="license" target="_blank" 
-        title="Creative Commons License" style="border_width:0;">
-<br/><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">NBC</span> 
-by 
-<a target="_blank" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"
-        rel="cc:attributionURL" href="http://www.neilsmithline.com">Neil Smithline</a> is licensed under a
-<a target="_blank" rel="cc:attributionURL"
-href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>
+#+BEGIN_CENTER
+[[http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png]]
+<br/>
+*NBC* by 
+[[http://bit.ly/yGGszW][Neil Smithline]] is licensed under a
+[[http://bit.ly/NkPdbA][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]]
 <br/> 
-Based on a work at 
-<a target="_blank" xmlns:dct="http://purl.org/dc/terms/" rel="dct:source"
-        href="https://github.com/neil-smithline-older-projects/nbc">github.com</a>.
+Based on a work at [[http://bit.ly/NkPiMb][github.com]].
 <br/>
 Permissions beyond the scope of this license may be available at 
-<a target="_blank" xmlns:cc="http://creativecommons.org/ns#" rel="cc:morePermissions"
-            href="http://www.neilsmithline.com">http://www.neilsmithline.com</a>
-</center>
-#+END_HTML
+[[http://bit.ly/yGGszW][http://www.neilsmithline.com]].
+#+END_CENTER
 
 # LocalWords:  nbc
