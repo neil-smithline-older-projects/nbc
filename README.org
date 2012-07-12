@@ -22,29 +22,26 @@ I have not completely rewritten the NB user interface. I have just done the part
 *** Credits
 While I like my CLI very much, it only exists because of the cool work done on [[http://nanoblogger.sourceforge.net/][NanoBlogger]]. As NB is doing most of the work, credit should go there.
 
-@<center>hello@</center>
-
-@<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">@<img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" />@</a>@<br />@<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">NBC@</span> by @<a xmlns:cc="http://creativecommons.org/ns#" href="http://www.neilsmithline.com" property="cc:attributionName" rel="cc:attributionURL">Neil Smithline@</a> is licensed under a @<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License@</a>.@<br />Based on a work at @<a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Neil-Smithline/nbc" rel="dct:source">github.com@</a>.@<br />Permissions beyond the scope of this license may be available at @<a xmlns:cc="http://creativecommons.org/ns#" href="http://www.neilsmithline.com" rel="cc:morePermissions">http://www.neilsmithline.com@</a>.
-
-
 -----
-#+BEGIN_CENTER
-#+ATTR_HTML: rel="license" target="_blank" title="Creative Commons License" style="border_width:0;"
-[[http://creativecommons.org/licenses/by-nc-sa/3.0/][http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png]]
-#+HTML:<br/><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">NBC</span> 
+#+BEGIN_HTML
+<center>
+<img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" rel="license" target="_blank" 
+        title="Creative Commons License" style="border_width:0;">
+<br/><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">NBC</span> 
 by 
-#+ATTR_HTML: target="_blank" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL"
-[[http://www.neilsmithline.com][Neil Smithline]] is licensed under a
-#+ATTR_HTML: target="_blank" rel="cc:attributionURL"
-[[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]].
-#+HTML:<br/> 
+<a target="_blank" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"
+        rel="cc:attributionURL" href="http://www.neilsmithline.com">Neil Smithline</a> is licensed under a
+<a target="_blank" rel="cc:attributionURL"
+href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>
+<br/> 
 Based on a work at 
-#+ATTR_HTML: target="_blank" xmlns:dct="http://purl.org/dc/terms/" rel="dct:source"
-[[https://github.com/Neil-Smithline/nbc"][github.com]].
-#+HTML:<br/>
+<a target="_blank" xmlns:dct="http://purl.org/dc/terms/" rel="dct:source"
+        href="https://github.com/neil-smithline-older-projects/nbc">github.com</a>.
+<br/>
 Permissions beyond the scope of this license may be available at 
-#+ATTR_HTML: target="_blank" xmlns:cc="http://creativecommons.org/ns#" rel="cc:morePermissions"
-[[http://www.neilsmithline.com][http://www.neilsmithline.com]].
-#+END_CENTER
+<a target="_blank" xmlns:cc="http://creativecommons.org/ns#" rel="cc:morePermissions"
+            href="http://www.neilsmithline.com">http://www.neilsmithline.com</a>
+</center>
+#+END_HTML
 
 # LocalWords:  nbc
