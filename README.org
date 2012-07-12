@@ -1,4 +1,3 @@
-# -*- mode: org -*- Make Github use the .mediawki file as there's no .org file.
 #+OPTIONS: toc:nil num:nil
 
 *** This Is Beta Quality Code
@@ -23,16 +22,19 @@ I have not completely rewritten the NB user interface. I have just done the part
 *** Credits
 While I like my CLI very much, it only exists because of the cool work done on [[http://nanoblogger.sourceforge.net/][NanoBlogger]]. As NB is doing most of the work, credit should go there.
 
------
+#+BEGIN_HTML
+<hr/>
+#+END_HTML
+
 #+BEGIN_CENTER
 [[http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png]]
-<br/>
+
 *NBC* by 
 [[http://bit.ly/yGGszW][Neil Smithline]] is licensed under a
 [[http://bit.ly/NkPdbA][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]]
-<br/> 
+
 Based on a work at [[http://bit.ly/NkPiMb][github.com]].
-<br/>
+
 Permissions beyond the scope of this license may be available at 
 [[http://bit.ly/yGGszW][http://www.neilsmithline.com]].
 #+END_CENTER
