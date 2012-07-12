@@ -1,3 +1,4 @@
+# -*- mode: org -*- Make Github use the .html file as there's no .org file.
 #+OPTIONS: toc:nil num:nil
 
 *** This Is Beta Quality Code
