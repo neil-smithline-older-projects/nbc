@@ -22,10 +22,6 @@ I have not completely rewritten the NB user interface. I have just done the part
 *** Credits
 While I like my CLI very much, it only exists because of the cool work done on [[http://nanoblogger.sourceforge.net/][NanoBlogger]]. As NB is doing most of the work, credit should go there.
 
-#+BEGIN_HTML
-<hr/>
-#+END_HTML
-
 #+BEGIN_CENTER
 [[http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png]]
 
